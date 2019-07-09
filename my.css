@@ -1,0 +1,54 @@
+*{margin:0;padding:0;list-style:none;text-decoration:none;}
+html,body{width:100%;height:100%;background-color:#000;}
+.top .top-size{background-color:#ffb016;width:900px;height:45px;margin:23px auto 2px;}
+.top .top-size .top-size-ys{padding-left:310px;font-size:11px;}
+.top .top-size .top-size-ys .ys{float:left;margin:0px auto;margin-left:9px;color:#FFF;line-height:45px;}
+.top .top-size .top-size-ys .ys:hover{color:#000}
+.top .top-size .top-size-ys .home1 .home{color:#000;}
+.top-pic{background-image:url('./image/images/header.jpg');width:898px;height:363px;margin:0 auto;border:1px solid#FFF;position:relative;}
+.top-pic-logo{background-image:url('./image/logo.jpg');width:105px;height:37px;margin:40px 109px 283px 685px;}
+.top-pic .top-pic-text{position:absolute;left:612px;top:105px;width:260px;height:126px;}
+.top-pic .top-pic-text .top-pic-text-s{font:normal 24px/26px Georgia, "Times New Roman", Times, serif;}
+.top-pic .top-pic-text .top-pic-text-n{font:bold 11px/14px Arial, Helvetica, sans-serif;color:#FFF;margin:5px 0px;}
+.top-pic .top-pic-text .top-pic-text-c{font:normal 10px/14px Arial, Helvetica, sans-serif;/*margin:5px;*/color:#B73934;}
+.box{width:900px;height:432px;/*border:1px solid#099;*/margin:25px auto/*;position:relative*/;}
+.box .box-l{width:265px;height:430px/*;border:1px solid#099*/;float:left;}
+.box .box-l .l-text1{font:normal 24px/26px Georgia, "Times New Roman", Times, serif;color:#FFA221;margin: 0 0 11px 0;background-color: inherit;}
+.box .box-l .l-text2{font:bold 11px/14px Arial, Helvetica, sans-serif;color: #FFDA75;background-color: inherit;}
+.box .box-l-pic1{background-image:url('./image/news-pic-1.jpg');width:255px;height:59px;margin:15px 0px 0px 0px;border:3px solid#FFF;}
+.box .box-l .l-text3{font:bold 11px/14px Arial, Helvetica, sans-serif;color:#6FB500;margin:6px 0 8px 0;background-color:inherit;}
+.box .box-l .l-text4{color:#FFF/*;background-color:inherit*/;font:bold 11px/14px Arial, Helvetica, sans-serif;}
+.box .box-l .l-text5{color:#666/*;background-color:inherit*/;font:bold 11px/14px Arial, Helvetica, sans-serif;}
+.box .box-l-pic2{background-image:url('./image/news-pic-2.jpg');width:255px;height:59px;margin:20px 0px 0px 0px;border:3px solid#FFF;}
+.box .box-l .l-text6{font:bold 11px/14px Arial, Helvetica, sans-serif;color: #6FB500;margin: 6px 0 8px 0;background-color: inherit;}
+.box .box-l .l-text7{color:#FFF/*;background-color: inherit*/;font:bold 11px/14px Arial, Helvetica, sans-serif;}
+.box .box-l .l-text8{color:#666/*;background-color: inherit*/;font:bold 11px/14px Arial, Helvetica, sans-serif;}
+.box .box-r{margin-left:25px;width:606px;height:430px/*;border:1px solid#099*/;/*position:relative;left:297px;top:434px;*/float:left;pagging:0px 0px 0px 30px;}
+.box-r .l-text1{font:normal 24px/26px Georgia, "Times New Roman", Times, serif;color:#FFA221;margin: 0 0 11px 0;background-color: inherit;}
+.box-r .l-text2{font:bold 11px/14px Arial, Helvetica, sans-serif;color: #FFDA75;background-color: inherit;}
+.box-r .r-box1{float:left;background-color:#7B7B7B;border:2px solid #fff;width:181px;height:221px;margin:22px 0px;}
+.box-r .r-box2{/*position:absolute;left:189px;top:65px;*/float:left;background-color:#7B7B7B;border:2px solid #fff/*;padding:8px;color:#3F3812*/;width:184px;height:206px;margin:22px 23px;}
+.box-r .r-box3{float:left;background-color:#7B7B7B;border:2px solid #fff;width:181px;height:221px;margin:22px 0px;}
+.r-box1 .box1-pic{background-image:url('./image/show-pic-1.jpg');width:158px;height:62px;border:4px solid #A4A4A4;margin:8px auto;}
+.r-box2 .box2-pic{background-image:url('./image/show-pic-2.jpg');width:158px;height:62px;border:4px solid #A4A4A4;margin:8px auto;}
+.r-box3 .box3-pic{background-image:url('./image/show-pic-3.jpg');width:158px;height:62px;border:4px solid #A4A4A4;margin:8px auto;}
+.box-r .Aliquam{font: bold 14px/18px Arial, Helvetica,sans-serif;color:#FDFFDA;margin:6px 0;text-align:center;}
+.box-r .Nam{font:11px/16px Arial,Helvetica,sans-serif;color:#3F3812;text-align:center;font-weight:bold;}
+.box-r .Saptent{font:11px/16px Arial,Helvetica,sans-serif;color:#3F3812;text-align:center;}
+.box-r .ysmore{display:block;color:#FFF;background-color:#D9420B;width:56px;height:21px;font: bold 11px/20px Arial, Helvetica, sans-serif;text-align:center;margin:10px auto;}
+/*.box-r .r-box4::before{content:"";clear:both;}*/
+.box-r .r-box4{display:inline-block;background-image:url('./image/images/award-pic.jpg');width:604px;height:97px;}
+.box-r .box4-text{font: normal 24px/26px Georgia, "Times New Roman", Times, serif;color: #fff;margin: 20px 0 0 114px;background-color: inherit;}
+.box-r .box5-text{font: 10px/13px Arial, Helvetica, sans-serif;color: #33B818;margin: 6px 0 0 114px;background-color: inherit;}
+.box-r .box5-text .more{font: bold 11px/13px Arial, Helvetica, sans-serif;color: #B63617;background-color: inherit;text-decoration:underline;}
+.under{width:902px;height:80px;margin:30px auto;background:#ffb016;position:relative;}
+.under .under-1{font-size:11px;margin-left:318px;line-height:40px;}
+.under .under-1 .ys1{color:#FFF;float:left;}
+.under .under-1 .ys1:hover{color:#000}
+/*.under .under-1::after{content: "";clear:both;display:block;}*/
+.ysd{color:#FFF;float:left;margin:0px 9px;}
+/*.under .copy::before{content:"";clear:both;}*/
+/*问题*/
+.under .copy{line-height:80px;display:inline-block;/*position:absolute;left:528px;top:954px;*/position:absolute;left:305px;top:30px;font:10px/14px Arial, Helvetica, sans-serif;color:#040407;background-color:inherit;text-align: center;}
+.under .design{font: 10px/14px Arial, Helvetica, sans-serif;color: #040407;background-color:inherit;text-align:center;position:absolute;left:364px;top:46px;}
+.under .template{font: bold 11px/14px Arial, Helvetica, sans-serif;color: #E0E3B8;background-color: inherit;text-align: center;text-decoration:underline;}

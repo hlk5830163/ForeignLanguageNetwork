@@ -1,0 +1,308 @@
+body {
+	padding:24px 0 28px 0;
+	margin:0;
+	background-color:#000;
+	font:11px/14px Arial, Helvetica, sans-serif;
+	color:#2384F6;
+}
+td, h1, h2, h3, p, ul, img, form, input, select, textarea{
+	padding:0;
+	margin:0;
+}
+ul{
+	list-style-type:none;
+}
+img{
+	border:none;
+}
+a{
+	outline:none;
+}
+.general_text{
+	font:normal 11px/16px Arial, Helvetica, sans-serif;
+	color:#F2C620;
+	background-color:inherit;
+}
+/*-----------------------------------------------------------------Header Starts----------------------------------*/
+td.topNavbg{
+	background-color:#FFB016;
+	color:#fff;
+	height:45px;
+	border-bottom:2px solid #000;
+}
+ul.menu{
+	margin:14px 0 0 310px;
+	height:14px;
+}
+ul.menu li{
+	background:url(images/nav-div.gif) no-repeat 0 3px;
+	height:14px;
+	float:left;
+	padding:0 10px;
+	width:auto;
+}
+ul.menu li a{
+	font:bold 11px/14px Arial, Helvetica, sans-serif;
+	color:#fff;
+	float:left;
+	text-decoration:none;
+	width:auto;
+	background-color:inherit;
+}
+ul.menu li a:hover, ul.menu li a.active{
+	color:#000;
+	background-color:inherit;
+}
+ul.menu li.noDiv{
+	background:none;
+}
+ul.menu01 li.noDiv{
+	background:none;
+}
+td.bannerBorder{
+	background:url(images/header.jpg) no-repeat 0 0;
+	height:363px;
+}
+h2.heading{
+	font:normal 24px/24px Georgia, "Times New Roman", Times, serif;
+	color:#000500;
+	background-color:inherit;
+}
+p.header_text{
+	font:normal 11px/14px Arial, Helvetica, sans-serif;
+	color:#B73934;
+	background-color:inherit;
+	width:256px;
+}
+p.header_text span{
+	color:#fff;
+	background-color:inherit;
+	font:12px;
+	font-weight:bold;
+	line-height:25px;
+	display:block;
+}
+td.bannerPic{
+	background:url(images/banner.jpg) no-repeat 0 0;
+	width:292px;
+	height:355px;
+}
+td.bannerPattern{
+	background:url(images/banner-pattern.jpg) repeat-x 0 0;
+	height:355px;
+}
+img.logo{
+	margin:41px 0 0 7px;
+}
+h2.welcomeTxt{
+	font:italic 24px/26px Georgia, "Times New Roman", Times, serif;
+	color:#BAC3F5;
+	margin:10px 0 10px 0;
+	background-color:inherit;
+}
+p.normalTxt{
+	font:11px/16px Arial, Helvetica, sans-serif;
+	color:#2384F6;
+	width:574px;
+	background-color:inherit;
+}
+p.normalTxt a{
+	font:bold 11px/18px Arial, Helvetica, sans-serif;
+	color:#E3EC6E;
+	background-color:inherit;
+}
+p.normalTxt a:hover{
+	text-decoration:none;
+}
+td.loginBg{
+	background:url(images/login-bg.jpg) repeat-x 0 0;
+	height:105px;
+	border:1px solid #001939;
+}
+input.loginBox{
+	width:232px;
+	background-color:#002C62;
+	color:#1B70CD;
+	height:19px;
+	font:11px/19px Arial, Helvetica, sans-serif;
+	border:1px solid #004290;
+}
+td.loginGap{
+	padding:22px 0 0 0;
+}
+p.newsUser{
+	font:11px/16px Arial, Helvetica, sans-serif;
+	color:#7A7FA0;
+	margin:4px 0 0 0;
+	background-color:inherit;
+}
+p.newsUser a{
+	font:bold 11px/16px Arial, Helvetica, sans-serif;
+	color:#E3EC6E;
+	background-color:inherit
+}
+p.newsUser a:hover{
+	text-decoration:none;
+}
+/*-------------------------------------------------------------Body Starts------------------------------------------*/
+td.bodyPad{
+	padding:24px 0 27px 0;
+}
+h2.headingTxt{
+	font:normal 24px/26px Georgia, "Times New Roman", Times, serif;
+	color:#FFA221;
+	margin:0 0 11px 0;
+	background-color:inherit;
+}
+h3.subheading{
+	font:bold 11px/14px Arial, Helvetica, sans-serif;
+	color:#FFDA75;
+	background-color:inherit;
+}
+img.newsPic{
+	border:3px solid #fff;
+	margin:16px 0 0 0;
+}
+p.dateTxt{
+	font:bold 11px/14px Arial, Helvetica, sans-serif;
+	color:#6FB500;
+	margin:6px 0 8px 0;
+	background-color:inherit;
+}
+p.newsDetail{
+	font:11px/16px Arial, Helvetica, sans-serif;
+	color:#827C7C;
+	background-color:inherit;
+}
+p.newsDetail strong{
+	color:#FFFFDB;
+	background-color:inherit;
+}
+td.dottLine{
+	background:url(images/dott-line.gif) repeat-x 0 18px;
+	height:25px;
+}
+td.featurePad{
+	padding:25px 0 20px 0;
+}
+td.featureBox{
+	background-color:#7B7B7B;
+	border:2px solid #fff;
+	padding:8px;
+	color:#3F3812;
+}
+img.showPic{
+	border:4px solid #A4A4A4;
+}
+p.showHeading{
+	font:bold 14px/18px Arial, Helvetica, sans-serif;
+	color:#FDFFDA;
+	margin:6px 0;
+	text-align:center;
+	background-color:inherit;
+}
+p.showTxt{
+	font:11px/16px Arial, Helvetica, sans-serif;
+	color:#3F3812;
+	text-align:center;
+	background-color:inherit;
+}
+a.more{
+	width:56px;
+	height:21px;
+	display:block;
+	font:bold 11px/20px Arial, Helvetica, sans-serif;
+	color:#fff;
+	text-decoration:none;
+	text-align:center;
+	margin:10px 0 9px 0;
+	background-color:#D9420B;
+}
+td.awardBg{
+	background:url(images/award-pic.jpg) no-repeat 0 0;
+	height:97px;
+}
+td.awardBg h2{
+	font:normal 24px/26px Georgia, "Times New Roman", Times, serif;
+	color:#fff;
+	margin:20px 0 0 114px;
+	background-color:inherit;
+}
+td.awardBg p{
+	font:10px/13px Arial, Helvetica, sans-serif;
+	color:#33B818;
+	margin:6px 0 0 114px;
+	background-color:inherit;
+}
+td.awardBg p a{
+	font:bold 11px/13px Arial, Helvetica, sans-serif;
+	color:#B63617;
+	background-color:inherit;
+}
+h2.about{
+	font:normal 24px/24px Georgia, "Times New Roman", Times, serif;
+	color:#FFA221;
+	background-color:inherit;
+}
+h3.about_yellow{
+	font:bold 11px/14px Arial, Helvetica, sans-serif;
+	color:#FFDA75;
+	background-color:inherit;
+	padding:12px 0;
+}
+p.general{
+	font:normal 11px/16px Arial, Helvetica, sans-serif;
+	color:#827C7C;
+	background-color:inherit;
+}
+p.general strong{
+	color:#FFFFDB;
+	background-color:inherit;
+	display:block;
+}
+p.general span{
+	padding:15px 0;
+	display:block;
+}
+/*--------------------------------------------------------------Footer Starts------------------------------------------*/
+ul.menu01{
+	margin:14px 0 0 310px;
+	height:14px;
+}
+ul.menu01 li{
+	background:url(images/footer_divider.jpg) no-repeat 0 3px;
+	height:14px;
+	float:left;
+	padding:0 10px;
+	width:auto;
+}
+ul.menu01 li a{
+	font:bold 11px/14px Arial, Helvetica, sans-serif;
+	color:#E0E3B8;
+	float:left;
+	text-decoration:none;
+	width:auto;
+	background-color:inherit;
+}
+ul.menu01 li a:hover, ul.menu01 li a.active{
+	color:#000;
+	background-color:inherit;
+}
+td.footerBg{
+	background-color:#FFB016;
+	height:78px;
+}
+td.footerBg p{
+	font:10px/14px Arial, Helvetica, sans-serif;
+	color:#040407;
+	background-color:inherit;
+	text-align:center;
+}
+td.footerBg p a{
+	font:bold 11px/14px Arial, Helvetica, sans-serif;
+	color:#E0E3B8;
+	background-color:inherit;
+	text-align:center;
+}
+
+
